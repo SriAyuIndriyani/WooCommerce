@@ -1,0 +1,2970 @@
+2023-10-23T02:27:10+00:00 ERROR Error getting data feed
+2023-10-23T02:27:10+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:27:19+00:00 ERROR Error getting data feed
+2023-10-23T02:27:19+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:27:19+00:00 ERROR Error getting data feed
+2023-10-23T02:27:19+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:27:20+00:00 ERROR Error getting data feed
+2023-10-23T02:27:20+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:27:31+00:00 ERROR Error getting data feed
+2023-10-23T02:27:31+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:27:32+00:00 ERROR Error getting data feed
+2023-10-23T02:27:32+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:27:38+00:00 ERROR Error getting data feed
+2023-10-23T02:27:38+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:27:38+00:00 ERROR Error getting data feed
+2023-10-23T02:27:38+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:27:38+00:00 ERROR Error getting data feed
+2023-10-23T02:27:38+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:27:38+00:00 ERROR Error getting data feed
+2023-10-23T02:27:38+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:27:38+00:00 ERROR Error getting data feed
+2023-10-23T02:27:38+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:27:39+00:00 ERROR Error getting data feed
+2023-10-23T02:27:39+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:27:39+00:00 ERROR Error getting data feed
+2023-10-23T02:27:39+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:27:42+00:00 ERROR Error getting data feed
+2023-10-23T02:27:42+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:27:42+00:00 ERROR Error getting data feed
+2023-10-23T02:27:42+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:27:42+00:00 ERROR Error getting data feed
+2023-10-23T02:27:42+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:27:43+00:00 ERROR Error getting data feed
+2023-10-23T02:27:43+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:27:44+00:00 ERROR Error getting data feed
+2023-10-23T02:27:44+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:27:51+00:00 ERROR Error getting data feed
+2023-10-23T02:27:51+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:27:51+00:00 ERROR Error getting data feed
+2023-10-23T02:27:51+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:27:51+00:00 ERROR Error getting data feed
+2023-10-23T02:27:51+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:27:51+00:00 ERROR Error getting data feed
+2023-10-23T02:27:51+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:27:51+00:00 ERROR Error getting data feed
+2023-10-23T02:27:51+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:27:51+00:00 ERROR Error getting data feed
+2023-10-23T02:27:51+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:27:51+00:00 ERROR Error getting data feed
+2023-10-23T02:27:51+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:27:55+00:00 ERROR Error getting data feed
+2023-10-23T02:27:55+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:27:55+00:00 ERROR Error getting data feed
+2023-10-23T02:27:55+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:27:55+00:00 ERROR Error getting data feed
+2023-10-23T02:27:55+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:27:56+00:00 ERROR Error getting data feed
+2023-10-23T02:27:56+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:27:56+00:00 ERROR Error getting data feed
+2023-10-23T02:27:56+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:28:00+00:00 ERROR Error getting data feed
+2023-10-23T02:28:00+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:28:01+00:00 ERROR Error getting data feed
+2023-10-23T02:28:01+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:28:01+00:00 ERROR Error getting data feed
+2023-10-23T02:28:01+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:28:01+00:00 ERROR Error getting data feed
+2023-10-23T02:28:01+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:28:01+00:00 ERROR Error getting data feed
+2023-10-23T02:28:01+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:28:01+00:00 ERROR Error getting data feed
+2023-10-23T02:28:01+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:28:01+00:00 ERROR Error getting data feed
+2023-10-23T02:28:01+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:28:25+00:00 ERROR Error getting data feed
+2023-10-23T02:28:25+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:28:25+00:00 ERROR Error getting data feed
+2023-10-23T02:28:25+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:28:25+00:00 ERROR Error getting data feed
+2023-10-23T02:28:25+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:28:26+00:00 ERROR Error getting data feed
+2023-10-23T02:28:26+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:28:27+00:00 ERROR Error getting data feed
+2023-10-23T02:28:27+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:28:31+00:00 ERROR Error getting data feed
+2023-10-23T02:28:31+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:28:31+00:00 ERROR Error getting data feed
+2023-10-23T02:28:31+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:28:31+00:00 ERROR Error getting data feed
+2023-10-23T02:28:31+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:28:31+00:00 ERROR Error getting data feed
+2023-10-23T02:28:31+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:28:31+00:00 ERROR Error getting data feed
+2023-10-23T02:28:31+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:28:31+00:00 ERROR Error getting data feed
+2023-10-23T02:28:31+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:28:32+00:00 ERROR Error getting data feed
+2023-10-23T02:28:32+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:28:35+00:00 ERROR Error getting data feed
+2023-10-23T02:28:35+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:28:36+00:00 ERROR Error getting data feed
+2023-10-23T02:28:36+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:28:36+00:00 ERROR Error getting data feed
+2023-10-23T02:28:36+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:28:37+00:00 ERROR Error getting data feed
+2023-10-23T02:28:37+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:28:37+00:00 ERROR Error getting data feed
+2023-10-23T02:28:37+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:28:41+00:00 ERROR Error getting data feed
+2023-10-23T02:28:41+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:28:41+00:00 ERROR Error getting data feed
+2023-10-23T02:28:41+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:28:41+00:00 ERROR Error getting data feed
+2023-10-23T02:28:41+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:28:41+00:00 ERROR Error getting data feed
+2023-10-23T02:28:41+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:28:42+00:00 ERROR Error getting data feed
+2023-10-23T02:28:42+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:28:42+00:00 ERROR Error getting data feed
+2023-10-23T02:28:42+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:28:42+00:00 ERROR Error getting data feed
+2023-10-23T02:28:42+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:31:26+00:00 ERROR Error getting data feed
+2023-10-23T02:31:26+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:31:26+00:00 ERROR Error getting data feed
+2023-10-23T02:31:26+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:31:26+00:00 ERROR Error getting data feed
+2023-10-23T02:31:26+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:31:26+00:00 ERROR Error getting data feed
+2023-10-23T02:31:26+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:31:26+00:00 ERROR Error getting data feed
+2023-10-23T02:31:26+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:31:29+00:00 ERROR Error getting data feed
+2023-10-23T02:31:29+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:31:29+00:00 ERROR Error getting data feed
+2023-10-23T02:31:29+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:31:30+00:00 ERROR Error getting data feed
+2023-10-23T02:31:30+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:31:30+00:00 ERROR Error getting data feed
+2023-10-23T02:31:30+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:31:30+00:00 ERROR Error getting data feed
+2023-10-23T02:31:30+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:31:30+00:00 ERROR Error getting data feed
+2023-10-23T02:31:30+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:31:30+00:00 ERROR Error getting data feed
+2023-10-23T02:31:30+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:32:44+00:00 ERROR Error getting data feed
+2023-10-23T02:32:44+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:32:44+00:00 ERROR Error getting data feed
+2023-10-23T02:32:44+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:32:44+00:00 ERROR Error getting data feed
+2023-10-23T02:32:44+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:32:45+00:00 ERROR Error getting data feed
+2023-10-23T02:32:45+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:32:45+00:00 ERROR Error getting data feed
+2023-10-23T02:32:45+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:32:49+00:00 ERROR Error getting data feed
+2023-10-23T02:32:49+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:32:49+00:00 ERROR Error getting data feed
+2023-10-23T02:32:49+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:32:49+00:00 ERROR Error getting data feed
+2023-10-23T02:32:49+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:32:49+00:00 ERROR Error getting data feed
+2023-10-23T02:32:49+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:32:50+00:00 ERROR Error getting data feed
+2023-10-23T02:32:50+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:32:50+00:00 ERROR Error getting data feed
+2023-10-23T02:32:50+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:32:50+00:00 ERROR Error getting data feed
+2023-10-23T02:32:50+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:32:52+00:00 ERROR Error getting data feed
+2023-10-23T02:32:52+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:32:52+00:00 ERROR Error getting data feed
+2023-10-23T02:32:52+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:32:52+00:00 ERROR Error getting data feed
+2023-10-23T02:32:52+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:32:53+00:00 ERROR Error getting data feed
+2023-10-23T02:32:53+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:32:53+00:00 ERROR Error getting data feed
+2023-10-23T02:32:53+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:32:57+00:00 ERROR Error getting data feed
+2023-10-23T02:32:57+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:32:57+00:00 ERROR Error getting data feed
+2023-10-23T02:32:57+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:32:57+00:00 ERROR Error getting data feed
+2023-10-23T02:32:57+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:32:57+00:00 ERROR Error getting data feed
+2023-10-23T02:32:57+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:32:57+00:00 ERROR Error getting data feed
+2023-10-23T02:32:57+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:32:57+00:00 ERROR Error getting data feed
+2023-10-23T02:32:58+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:32:58+00:00 ERROR Error getting data feed
+2023-10-23T02:32:58+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:33:27+00:00 ERROR Error getting data feed
+2023-10-23T02:33:27+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:33:27+00:00 ERROR Error getting data feed
+2023-10-23T02:33:27+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:33:27+00:00 ERROR Error getting data feed
+2023-10-23T02:33:27+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:33:29+00:00 ERROR Error getting data feed
+2023-10-23T02:33:29+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:33:29+00:00 ERROR Error getting data feed
+2023-10-23T02:33:29+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:33:34+00:00 ERROR Error getting data feed
+2023-10-23T02:33:34+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:33:34+00:00 ERROR Error getting data feed
+2023-10-23T02:33:34+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:33:34+00:00 ERROR Error getting data feed
+2023-10-23T02:33:34+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:33:34+00:00 ERROR Error getting data feed
+2023-10-23T02:33:34+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:33:34+00:00 ERROR Error getting data feed
+2023-10-23T02:33:34+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:33:34+00:00 ERROR Error getting data feed
+2023-10-23T02:33:34+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:33:34+00:00 ERROR Error getting data feed
+2023-10-23T02:33:34+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:33:36+00:00 ERROR Error getting data feed
+2023-10-23T02:33:36+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:33:36+00:00 ERROR Error getting data feed
+2023-10-23T02:33:36+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:33:36+00:00 ERROR Error getting data feed
+2023-10-23T02:33:36+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:33:37+00:00 ERROR Error getting data feed
+2023-10-23T02:33:37+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:33:37+00:00 ERROR Error getting data feed
+2023-10-23T02:33:37+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:33:40+00:00 ERROR Error getting data feed
+2023-10-23T02:33:41+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:33:41+00:00 ERROR Error getting data feed
+2023-10-23T02:33:41+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:33:41+00:00 ERROR Error getting data feed
+2023-10-23T02:33:41+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:33:42+00:00 ERROR Error getting data feed
+2023-10-23T02:33:42+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:33:42+00:00 ERROR Error getting data feed
+2023-10-23T02:33:42+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:33:42+00:00 ERROR Error getting data feed
+2023-10-23T02:33:42+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:33:42+00:00 ERROR Error getting data feed
+2023-10-23T02:33:42+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:33:42+00:00 ERROR Error getting data feed
+2023-10-23T02:33:42+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:33:42+00:00 ERROR Error getting data feed
+2023-10-23T02:33:42+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:33:43+00:00 ERROR Error getting data feed
+2023-10-23T02:33:43+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:33:43+00:00 ERROR Error getting data feed
+2023-10-23T02:33:43+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:33:43+00:00 ERROR Error getting data feed
+2023-10-23T02:33:43+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:36:41+00:00 ERROR Error getting data feed
+2023-10-23T02:36:41+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:36:41+00:00 ERROR Error getting data feed
+2023-10-23T02:36:41+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:36:41+00:00 ERROR Error getting data feed
+2023-10-23T02:36:41+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:36:47+00:00 ERROR Error getting data feed
+2023-10-23T02:36:47+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:36:47+00:00 ERROR Error getting data feed
+2023-10-23T02:36:47+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:36:47+00:00 ERROR Error getting data feed
+2023-10-23T02:36:47+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:36:54+00:00 ERROR Error getting data feed
+2023-10-23T02:36:54+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:36:54+00:00 ERROR Error getting data feed
+2023-10-23T02:36:54+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2023-10-23T02:36:54+00:00 ERROR Error getting data feed
+2023-10-23T02:36:54+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to woocommerce.com:443 
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
