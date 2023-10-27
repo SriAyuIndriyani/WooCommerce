@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 6.3.x - Development - Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-10-01 09:12:30+0000\n"
+"PO-Revision-Date: 2023-10-13 07:46:25+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -37,8 +37,24 @@ msgctxt "default GMT offset or timezone string"
 msgid "0"
 msgstr "0"
 
+#: wp-admin/includes/user.php:720 wp-admin/includes/user.php:742
+msgid "Invalid URL format."
+msgstr "Format URL tidak valid."
+
+#. translators: 1: Current PHP version, 2: PHP version required by the new
+#. plugin version.
+#: wp-admin/includes/class-plugin-upgrader.php:369
+msgid "The PHP version on your server is %1$s, however the new plugin version requires %2$s."
+msgstr "Versi PHP di server Anda adalah %1$s, namun versi plugin baru membutuhkan %2$s."
+
+#. translators: 1: Current WordPress version, 2: WordPress version required by
+#. the new plugin version.
+#: wp-admin/includes/class-plugin-upgrader.php:355
+msgid "Your WordPress version is %1$s, however the new plugin version requires %2$s."
+msgstr "Versi WordPress Anda adalah %1$s, namun versi plugin baru membutuhkan %2$s."
+
 #. translators: %s: WordPress version.
-#: wp-admin/about.php:68
+#: wp-admin/about.php:68 wp-admin/about.php:93
 msgid "https://wordpress.org/support/wordpress-version/version-%s/"
 msgstr "https://wordpress.org/support/wordpress-version/version-%s/"
 
@@ -146,6 +162,18 @@ msgstr "Tidak dapat memindahkan versi lama ke direktori %s."
 msgid "Could not create the %s directory."
 msgstr "Tidak dapat membuat direktori %s."
 
+#: wp-admin/includes/class-wp-terms-list-table.php:222
+msgid "Table ordered by Slug."
+msgstr "Tabel disusun berdasarkan Slug."
+
+#: wp-admin/includes/class-wp-terms-list-table.php:221
+msgid "Table ordered by Description."
+msgstr "Tabel disusun berdasarkan Deskripsi."
+
+#: wp-admin/includes/class-wp-terms-list-table.php:214
+msgid "Table ordered hierarchically."
+msgstr "Tabel disusun secara hierarkis."
+
 #: wp-admin/includes/class-wp-site-health.php:2790
 msgid "Available disk space"
 msgstr "Ruang penyimpanan yang tersedia"
@@ -176,12 +204,12 @@ msgid "%s available disk space was detected, update routines can be performed sa
 msgstr "%s ruang penyimpanan yang tersedia terdeteksi, rutinitas pembaruan dapat dijalankan dengan aman."
 
 #. translators: Hidden accessibility text.
-#: wp-admin/includes/class-wp-list-table.php:1552
+#: wp-admin/includes/class-wp-list-table.php:1566
 msgid "Descending."
 msgstr "Menurun."
 
 #. translators: Hidden accessibility text.
-#: wp-admin/includes/class-wp-list-table.php:1550
+#: wp-admin/includes/class-wp-list-table.php:1564
 msgid "Ascending."
 msgstr "Urut naik."
 
@@ -298,71 +326,71 @@ msgstr "Jadilah bagian dari komunitas open source global."
 msgid "Be the future of WordPress"
 msgstr "Jadilah masa depan WordPress"
 
-#: wp-admin/about.php:259
+#: wp-admin/about.php:284
 msgid "Create unique patterns to jumpstart template creation with a new modal enabling access to pattern selection."
 msgstr "Buat pola unik untuk memulai pembuatan template dengan modal baru yang memungkinkan akses ke pemilihan pola."
 
-#: wp-admin/about.php:258
+#: wp-admin/about.php:283
 msgid "Build templates with Patterns"
 msgstr "Bangun template dengan Pola"
 
-#: wp-admin/about.php:247
+#: wp-admin/about.php:272
 msgid "List View improvements"
 msgstr "Peningkatan Tampilan Daftar"
 
-#: wp-admin/about.php:222
+#: wp-admin/about.php:247
 msgid "Distraction-free designing is now available in the Site Editor."
 msgstr "Mendesain tanpa gangguan sekarang hadir di Editor Situs."
 
-#: wp-admin/about.php:221
+#: wp-admin/about.php:246
 msgid "Build your site distraction-free"
 msgstr "Buat situs Anda tanpa gangguan"
 
-#: wp-admin/about.php:212
+#: wp-admin/about.php:237
 msgid "Specify your aspect ratios and ensure design integrity, especially when using images in patterns."
 msgstr "Tentukan rasio aspek Anda dan pastikan integritas desain, terutama ketika menggunakan gambar dalam pola."
 
-#: wp-admin/about.php:211
+#: wp-admin/about.php:236
 msgid "Set aspect ratio on images"
 msgstr "Atur rasio aspek pada gambar"
 
-#: wp-admin/about.php:201
+#: wp-admin/about.php:226
 msgid "Preview block themes"
 msgstr "Lakukan pratinjau tema blok"
 
-#: wp-admin/about.php:186
+#: wp-admin/about.php:211
 msgid "Accessibility remains a core focus"
 msgstr "Aksesibilitas tetap menjadi fokus utama"
 
-#: wp-admin/about.php:161
+#: wp-admin/about.php:186
 msgid "Show or hide content with the Details block"
 msgstr "Tampilkan atau sembunyikan konten dengan blok Detail"
 
-#: wp-admin/about.php:155
+#: wp-admin/about.php:180
 msgid "Footnotes add convenient annotations throughout your content. Now you can add and link footnotes for any paragraph."
 msgstr "Catatan kaki menambahkan anotasi dengan mudah di seluruh konten Anda. Sekarang Anda dapat menambahkan dan menghubungkan catatan kaki untuk setiap paragraf."
 
-#: wp-admin/about.php:154
+#: wp-admin/about.php:179
 msgid "Annotate with the Footnotes block"
 msgstr "Tambahkan anotasi dengan blok Catatan Kaki"
 
-#: wp-admin/about.php:147
+#: wp-admin/about.php:172
 msgid "Track design changes with Style Revisions"
 msgstr "Lacak perubahan desain dengan Revisi Gaya"
 
-#: wp-admin/about.php:132
+#: wp-admin/about.php:157
 msgid "Sharpen your designs with new tools"
 msgstr "Pertajam desain Anda dengan alat baru"
 
-#: wp-admin/about.php:108
+#: wp-admin/about.php:133
 msgid "Create and sync patterns"
 msgstr "Buat dan sinkronkan pola"
 
-#: wp-admin/about.php:101
+#: wp-admin/about.php:126
 msgid "Do everything in the Site Editor"
 msgstr "Lakukan semuanya di Editor Situs"
 
-#: wp-admin/about.php:89
+#: wp-admin/about.php:114
 msgid "Create beautiful and compelling websites more efficiently than ever. Whether you want to build an entire site without coding or are a developer looking to customize every detail, WordPress 6.3 has something for you."
 msgstr "Buat situs web yang indah dan menarik dengan lebih efisien dari sebelumnya. Apakah Anda ingin membangun seluruh situs tanpa perlu coding atau jika Anda seorang developer yang ingin menyesuaikan setiap detail, WordPress 6.3 memiliki semua yang Anda butuhkan."
 
@@ -514,12 +542,12 @@ msgid "<a href=\"https://wordpress.org/documentation/article/customizer/\">Docum
 msgstr "<a href=\"https://wordpress.org/documentation/article/customizer/\">Dokumentasi Pengedit Situs</a>"
 
 #. translators: The localized WordPress download URL.
-#: wp-admin/about.php:408
+#: wp-admin/about.php:433
 msgid "https://wordpress.org/download/"
 msgstr "https://id.wordpress.org/download/"
 
 #. translators: %s: The major version of WordPress for this branch.
-#: wp-admin/about.php:405
+#: wp-admin/about.php:430
 msgid "This is the final release of WordPress %s"
 msgstr "Inilah rilis terakhir WordPress %s"
 
@@ -618,21 +646,21 @@ msgid "Theme Styles & Block Settings"
 msgstr "Gaya Tema & Pengaturan Blok"
 
 #. translators: %s: The minimum recommended PHP version.
-#: wp-admin/includes/dashboard.php:1888
+#: wp-admin/includes/dashboard.php:1897
 msgid "The minimum recommended version of PHP is %s."
 msgstr "Versi PHP minimal yang direkomendasikan adalah %s."
 
-#: wp-admin/includes/dashboard.php:1883
+#: wp-admin/includes/dashboard.php:1892
 msgid "PHP is one of the programming languages used to build WordPress. Newer versions of PHP receive regular security updates and may increase your site&#8217;s performance."
 msgstr "PHP adalah salah satu bahasa pemrograman yang digunakan untuk membangun WordPress. Versi lebih baru dari PHP mendapatkan pembaruan keamanan secara berkala dan dapat meningkatkan performa situs Anda."
 
 #. translators: %s: The server PHP version.
-#: wp-admin/includes/dashboard.php:1868
+#: wp-admin/includes/dashboard.php:1877
 msgid "Your site is running on an outdated version of PHP (%s), which soon will not be supported by WordPress. Ensure that PHP is updated on your server as soon as possible. Otherwise you will not be able to upgrade WordPress."
 msgstr "Situs Anda berjalan pada versi PHP (%s) yang kedaluwarsa, yang segera tidak akan didukung oleh WordPress. Pastikan versi PHP diperbarui di server Anda sesegera mungkin. Jika tidak, Anda tidak akan dapat mengupgrade WordPress."
 
 #. translators: %s: The server PHP version.
-#: wp-admin/includes/dashboard.php:1855
+#: wp-admin/includes/dashboard.php:1864
 msgid "Your site is running on an outdated version of PHP (%s), which does not receive security updates and soon will not be supported by WordPress. Ensure that PHP is updated on your server as soon as possible. Otherwise you will not be able to upgrade WordPress."
 msgstr "Situs Anda berjalan pada versi PHP (%s) yang kedaluwarsa, yang tidak lagi menerima pembaruan keamanan dan segera tidak akan didukung oleh WordPress. Pastikan versi PHP diperbarui di server Anda sesegera mungkin. Jika tidak, Anda tidak akan dapat mengupgrade WordPress."
 
@@ -786,7 +814,7 @@ msgstr "Ketika menguji REST API, error ditemukan:"
 
 #. translators: %s: The server PHP version.
 #: wp-admin/includes/class-wp-site-health.php:817
-#: wp-admin/includes/dashboard.php:1861
+#: wp-admin/includes/dashboard.php:1870
 msgid "Your site is running on an outdated version of PHP (%s), which does not receive security updates. It should be updated."
 msgstr "Situs Anda menggunakan versi PHP lampau (%s), yang sistem keamanannya tidak diperbarui. Segera perbarui versi PHP Anda."
 
@@ -855,31 +883,31 @@ msgid "Reach out to WordPress Core developers to ensure you'll never have this p
 msgstr "Hubungi developer WordPress Core untuk memastikan Anda tidak akan pernah mendapati kendala ini lagi."
 
 #. translators: 1: WordPress version number, 2: Link to update WordPress
-#: wp-admin/about.php:402
+#: wp-admin/about.php:427
 msgid "Important! Your version of WordPress (%1$s) will stop receiving security updates in the near future. To keep your site secure, please <a href=\"%2$s\">update to the latest version of WordPress</a>."
 msgstr "Penting! Versi WordPress Anda (%1$s) tidak akan menerima pembaruan keamanan selanjutnya. Agar situs Anda tetap aman, mohon <a href=\"%2$s\">perbarui WordPress Anda ke versi terbaru</a>."
 
 #. translators: 1: WordPress version number, 2: Link to update WordPress
-#: wp-admin/about.php:399
+#: wp-admin/about.php:424
 msgid "Important! Your version of WordPress (%1$s) is no longer supported, you will not receive any security updates for your website. To keep your site secure, please <a href=\"%2$s\">update to the latest version of WordPress</a>."
 msgstr "Penting! Versi WordPress Anda (%1$s) tidak lagi didukung, sehingga situs Anda tidak akan menerima pembaruan sistem keamanan. Untuk membuat situs Anda tetap aman, mohon <a href=\"%2$s\">perbarui WordPress Anda ke versi terbaru</a>."
 
-#: wp-admin/about.php:305
+#: wp-admin/about.php:330
 msgid "https://make.wordpress.org/core/2023/07/18/wordpress-6-3-field-guide/"
 msgstr "https://make.wordpress.org/core/2023/07/18/wordpress-6-3-field-guide/"
 
 #. translators: 1: WordPress Release Notes link, 2: WordPress version number.
-#: wp-admin/about.php:322
+#: wp-admin/about.php:347
 msgid "<a href=\"%1$s\">Read the WordPress %2$s Release Notes</a> for more information on the included enhancements and issues fixed, installation information, developer notes and resources, release contributors, and the list of file changes in this release."
 msgstr "<a href=\"%1$s\">Baca Catatan Rilis WordPress %2$s</a>untuk informasi lebih lanjut tentang peningkatan yang disertakan dan perbaikan masalah, informasi penginstalan, catatan dan sumber pengembang, kontributor rilis, dan daftar perubahan file dalam rilis ini."
 
 #. translators: %s: WordPress Field Guide link.
-#: wp-admin/about.php:304
+#: wp-admin/about.php:329
 msgid "Check out the latest version of the <a href=\"%s\">WordPress Field Guide</a>. It is overflowing with detailed developer notes to help you build with WordPress."
 msgstr "Lihat versi terbaru dari <a href=\"%s\">WordPress Field Guide</a>. Dokumentasi ini menyajikan catatan lengkap dari pengembang untuk membantu Anda membangun sesuatu dengan WordPress."
 
 #. translators: %s: Version number.
-#: wp-admin/about.php:274
+#: wp-admin/about.php:299
 msgid "Learn more about WordPress %s"
 msgstr "Pelajari lebih lanjut tentang WordPress %s"
 
@@ -1062,64 +1090,64 @@ msgid_plural "This will grant access to <a href=\"%1$s\">all %2$s sites on the n
 msgstr[0] "Ini akan memberikan akses ke <a href=\"%1$s\">situs %2$s di jaringan karena Anda memiliki hak Super Admin</a>."
 msgstr[1] "Ini akan memberikan akses ke <a href=\"%1$s\">semua %2$s situs di jaringan karena Anda memiliki hak Super Admin</a>."
 
-#: wp-admin/includes/dashboard.php:2105
+#: wp-admin/includes/dashboard.php:2114
 msgid "Learn about block themes"
 msgstr "Pelajari tentang tema blok"
 
-#: wp-admin/includes/dashboard.php:2104
+#: wp-admin/includes/dashboard.php:2113
 msgid "There is a new kind of WordPress theme, called a block theme, that lets you build the site you&#8217;ve always wanted &#8212; with blocks and styles."
 msgstr "Terdapat jenis baru tema WordPress, namanya tema blok, yang memungkinkan Anda membangun situs yang Anda inginkan dengan blok dan style."
 
-#: wp-admin/includes/dashboard.php:2103
+#: wp-admin/includes/dashboard.php:2112
 msgid "Discover a new way to build your site."
 msgstr "Temukan cara baru untuk membangun situs Anda."
 
-#: wp-admin/includes/dashboard.php:2100
+#: wp-admin/includes/dashboard.php:2109
 msgid "Tweak your site, or give it a whole new look! Get creative &#8212; how about a new color palette or font?"
 msgstr "Sesuaikan situs Anda, atau buat tampilan baru! Mari berkreasi &#8212; cobalah palet warna atau jenif huruf baru?"
 
-#: wp-admin/includes/dashboard.php:2099
+#: wp-admin/includes/dashboard.php:2108
 msgid "Switch up your site&#8217;s look & feel with Styles"
 msgstr "Ubah tampilan & nuansa situs Anda dengan Style"
 
-#: wp-admin/includes/dashboard.php:2087
+#: wp-admin/includes/dashboard.php:2096
 msgid "Open the Customizer"
 msgstr "Buka di Customizer"
 
-#: wp-admin/includes/dashboard.php:2085
+#: wp-admin/includes/dashboard.php:2094
 msgid "Configure your site&#8217;s logo, header, menus, and more in the Customizer."
 msgstr "Atur logo, header, menu, dan lainnya di situs Anda di Customizer."
 
-#: wp-admin/includes/dashboard.php:2084
+#: wp-admin/includes/dashboard.php:2093
 msgid "Start Customizing"
 msgstr "Mulai Pengaturan"
 
-#: wp-admin/includes/dashboard.php:2082
+#: wp-admin/includes/dashboard.php:2091
 msgid "Open site editor"
 msgstr "Buka editor situs"
 
-#: wp-admin/includes/dashboard.php:2081
+#: wp-admin/includes/dashboard.php:2090
 msgid "Design everything on your site &#8212; from the header down to the footer, all using blocks and patterns."
 msgstr "Desan apa pun di situs Anda &#8212; mulai header hingga footer, semuanya menggunakan blok dan pola."
 
-#: wp-admin/includes/dashboard.php:2080
+#: wp-admin/includes/dashboard.php:2089
 msgid "Customize your entire site with block themes"
 msgstr "Sesuaikan seluruh situs Anda dengan tema blok"
 
-#: wp-admin/includes/dashboard.php:2070
+#: wp-admin/includes/dashboard.php:2079
 msgid "Add a new page"
 msgstr "Tambah laman baru"
 
-#: wp-admin/includes/dashboard.php:2069
+#: wp-admin/includes/dashboard.php:2078
 msgid "Block patterns are pre-configured block layouts. Use them to get inspired or create new pages in a flash."
 msgstr "Pola blok adalah tata letak yang telah disusun sebelumnya. Gunakanlah untuk memperoleh gambaran atau buat laman baru dengan cepat."
 
-#: wp-admin/includes/dashboard.php:2068
+#: wp-admin/includes/dashboard.php:2077
 msgid "Author rich content with blocks and patterns"
 msgstr "Susun konten yang beragam dengan blok dan pola"
 
 #. translators: %s: Current WordPress version.
-#: wp-admin/includes/dashboard.php:2056
+#: wp-admin/includes/dashboard.php:2065
 msgid "Learn more about the %s version."
 msgstr "Pelajari selengkapnya tentang versi %s."
 
@@ -1202,11 +1230,11 @@ msgstr "Dasbor adalah tempat pertama yang akan Anda kunjungi setiap kali Anda lo
 msgid "Welcome to your WordPress Dashboard!"
 msgstr "Selamat datang di Dasbor WordPress Anda!"
 
-#: wp-admin/includes/user.php:680
+#: wp-admin/includes/user.php:678
 msgid "The application ID must be a UUID."
 msgstr "ID aplikasi wajib berupa UUID."
 
-#: wp-admin/includes/dashboard.php:1375
+#: wp-admin/includes/dashboard.php:1384
 msgid "Select location"
 msgstr "Pilih lokasi"
 
@@ -1374,20 +1402,20 @@ msgstr "Tidak dapat menyandikan data pribadi untuk ekspor. Eror: %s"
 msgid "The %s post meta must be an array."
 msgstr "Meta pos %s harus berupa array."
 
-#: wp-admin/includes/dashboard.php:1997
+#: wp-admin/includes/dashboard.php:2006
 msgid "Your site&#8217;s health is looking good, but there is still one thing you can do to improve its performance and security."
 msgstr "Kesehatan situs Anda terlihat baik, tetapi masih ada beberapa hal yang dapat Anda lakukan untuk meningkatkan kinerja dan keamanannya."
 
-#: wp-admin/includes/dashboard.php:1993
+#: wp-admin/includes/dashboard.php:2002
 msgid "Your site has a critical issue that should be addressed as soon as possible to improve its performance and security."
 msgstr "Situs Anda memiliki masalah kritis yang harus diatasi segera untuk meningkatkan kinerja dan keamanannya."
 
 #. translators: %s: Browse Happy URL.
-#: wp-admin/includes/dashboard.php:1729
+#: wp-admin/includes/dashboard.php:1738
 msgid "Learn how to <a href=\"%s\" class=\"update-browser-link\">browse happy</a>"
 msgstr "Pelajari cara <a href=\"%s\" class=\"update-browser-link\">perbarui browser</a>"
 
-#: wp-admin/includes/dashboard.php:1696
+#: wp-admin/includes/dashboard.php:1705
 msgid "Internet Explorer does not give you the best WordPress experience. Switch to Microsoft Edge, or another more modern browser to get the most from your site."
 msgstr "Internet Explorer tidak memberi Anda pengalaman WordPress terbaik. Beralih ke Microsoft Edge, atau browser lain yang lebih modern untuk mendapatkan hasil maksimal dari situs Anda."
 
@@ -1592,21 +1620,21 @@ msgstr "Data Standar"
 msgid "The tool associates data stored in WordPress with a supplied email address, including profile data and comments."
 msgstr "Alat ini mengaitkan data yang disimpan di WordPress dengan alamat e-mail yang disediakan, termasuk data profil dan komentar."
 
-#: wp-admin/includes/dashboard.php:1471
+#: wp-admin/includes/dashboard.php:1480
 msgid "https://make.wordpress.org/community/organize-event-landing-page/"
 msgstr "https://make.wordpress.org/community/organize-event-landing-page/"
 
 #. translators: %s: Localized meetup organization documentation URL.
-#: wp-admin/includes/dashboard.php:1470
+#: wp-admin/includes/dashboard.php:1479
 msgid "Want more events? <a href=\"%s\">Help organize the next one</a>!"
 msgstr "Ingin lebih banyak acara? <a href=\"%s\">Bantu mengatur yang selanjutnya</a>!"
 
 #. translators: %s: User's display name.
-#: wp-admin/includes/ajax-actions.php:5584
+#: wp-admin/includes/ajax-actions.php:5600
 msgid "A password reset link was emailed to %s."
 msgstr "Tautan pengaturan ulang kata sandi telah dikirim melalui email ke %s."
 
-#: wp-admin/includes/ajax-actions.php:5574
+#: wp-admin/includes/ajax-actions.php:5590
 msgid "Cannot send password reset, permission denied."
 msgstr "Tidak dapat mengirim atur ulang sandi, izin ditolak."
 
@@ -1725,7 +1753,7 @@ msgid "https://wordpress.org/documentation/article/update-services/"
 msgstr "https://wordpress.org/documentation/article/update-services/"
 
 #. translators: %s: The server PHP version.
-#: wp-admin/includes/dashboard.php:1874
+#: wp-admin/includes/dashboard.php:1883
 msgid "Your site is running on an outdated version of PHP (%s), which should be updated."
 msgstr "Situs Anda menjalankan versi PHP (%s) yang kedaluwarsa, yang harus diperbarui"
 
@@ -1804,7 +1832,7 @@ msgstr "Tambahkan Kata Sandi Aplikasi Baru"
 msgid "Required to create an Application Password, but not to update the user."
 msgstr "Wajib untuk membuat Kata Sandi Aplikasi, tetapi tidak untuk memperbarui pengguna."
 
-#: wp-admin/about.php:343
+#: wp-admin/about.php:368
 msgid "Go to Updates"
 msgstr "Pergi ke pembaruan"
 
@@ -1837,7 +1865,7 @@ msgstr "Pergi ke atas"
 #. examples with cities in your locale, but test that they match the expected
 #. location before including them. Use endonyms (native locale names) whenever
 #. possible.
-#: wp-admin/includes/dashboard.php:1437
+#: wp-admin/includes/dashboard.php:1446
 msgid "%s could not be located. Please try another nearby city. For example: Kansas City; Springfield; Portland."
 msgstr "%s tidak dapat ditemukan. Silakan coba kota lain di sekitar. Contoh: Jakarta; Denpasar; Surabaya."
 
@@ -1965,10 +1993,10 @@ msgstr "Terakhir digunakan"
 
 #. translators: 1: The Site Health action that is no longer used by core. 2:
 #. The new function that replaces it.
-#: wp-admin/includes/ajax-actions.php:5312
-#: wp-admin/includes/ajax-actions.php:5345
-#: wp-admin/includes/ajax-actions.php:5378
-#: wp-admin/includes/ajax-actions.php:5428
+#: wp-admin/includes/ajax-actions.php:5328
+#: wp-admin/includes/ajax-actions.php:5361
+#: wp-admin/includes/ajax-actions.php:5394
+#: wp-admin/includes/ajax-actions.php:5444
 msgid "The Site Health check for %1$s has been replaced with %2$s."
 msgstr "Pemeriksaan Kesehatan Situs untuk %1$s telah diganti dengan %2$s."
 
@@ -2019,13 +2047,9 @@ msgstr "Beberapa elemen layar dapat ditampilkan atau disembunyikan dengan menggu
 msgid "Screen elements"
 msgstr "Elemen layar"
 
-#: wp-admin/includes/user.php:672
-msgid "The rejection URL must be served over a secure connection."
-msgstr "URL penolakan harus tersedia di koneksi yang aman."
-
-#: wp-admin/includes/user.php:661
-msgid "The success URL must be served over a secure connection."
-msgstr "URL sukses harus tersedia di koneksi yang aman."
+#: wp-admin/includes/user.php:749
+msgid "The URL must be served over a secure connection."
+msgstr "URL harus tersedia di koneksi yang aman."
 
 #. translators: Default privacy policy text.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:571
@@ -2207,7 +2231,7 @@ msgctxt "theme"
 msgid "Activate &#8220;%s&#8221;"
 msgstr "Aktifkan &#8220;%s&#8221;"
 
-#: wp-admin/includes/ajax-actions.php:5518
+#: wp-admin/includes/ajax-actions.php:5534
 msgid "Sorry, you are not allowed to modify plugins."
 msgstr "Maaf, Anda tidak diizinkan untuk memodifikasi plugin."
 
@@ -2455,20 +2479,20 @@ msgctxt "plugin"
 msgid "<strong>Error:</strong> Current versions of WordPress (%1$s) and PHP (%2$s) do not meet minimum requirements for %3$s. The plugin requires WordPress %4$s and PHP %5$s."
 msgstr "<strong>Eror:</strong> Versi WordPress (%1$s) dan PHP (%2$s) saat ini tidak memenuhi persyaratan minimum untuk %3$s.  Plugin ini membutuhkan WordPress %4$s dan PHP %5$s."
 
-#: wp-admin/includes/ajax-actions.php:5540
+#: wp-admin/includes/ajax-actions.php:5556
 msgid "Invalid data. The item does not exist."
 msgstr "Data tidak valid. Item tidak ada."
 
-#: wp-admin/includes/ajax-actions.php:5511
-#: wp-admin/includes/ajax-actions.php:5536
+#: wp-admin/includes/ajax-actions.php:5527
+#: wp-admin/includes/ajax-actions.php:5552
 msgid "Invalid data. Unknown type."
 msgstr "Data tidak valid. Tipe tidak dikenal."
 
-#: wp-admin/includes/ajax-actions.php:5506
+#: wp-admin/includes/ajax-actions.php:5522
 msgid "Invalid data. Unknown state."
 msgstr "Data tidak valid. Status tidak dikenal."
 
-#: wp-admin/includes/ajax-actions.php:5500
+#: wp-admin/includes/ajax-actions.php:5516
 msgid "Invalid data. No selected item."
 msgstr "Data tidak valid. Tidak ada item yang dipilih."
 
@@ -2655,14 +2679,14 @@ msgstr "Anda mengupload versi lama dari plugin saat ini. Anda dapat terus memasa
 #. translators: 1: Current WordPress version, 2: Version required by the
 #. uploaded plugin.
 #: wp-admin/includes/class-plugin-installer-skin.php:280
-#: wp-admin/includes/class-plugin-upgrader.php:476
+#: wp-admin/includes/class-plugin-upgrader.php:512
 msgid "Your WordPress version is %1$s, however the uploaded plugin requires %2$s."
 msgstr "Versi WordPress Anda adalah %1$s, namun plugin yang diunggah membutuhkan %2$s."
 
 #. translators: 1: Current PHP version, 2: Version required by the uploaded
 #. plugin.
 #: wp-admin/includes/class-plugin-installer-skin.php:268
-#: wp-admin/includes/class-plugin-upgrader.php:465
+#: wp-admin/includes/class-plugin-upgrader.php:501
 msgid "The PHP version on your server is %1$s, however the uploaded plugin requires %2$s."
 msgstr "Versi PHP di server Anda adalah %1$s, namun plugin yang diunggah membutuhkan %2$s."
 
@@ -2928,30 +2952,30 @@ msgid "This localized version contains both the translation and various other lo
 msgstr "Versi lokal ini mengandung terjemahan dan berbagai perbaikan pelokalan lainnya."
 
 #. translators: 1: Number of issues. 2: URL to Site Health screen.
-#: wp-admin/includes/dashboard.php:2009
+#: wp-admin/includes/dashboard.php:2018
 msgid "Take a look at the <strong>%1$d item</strong> on the <a href=\"%2$s\">Site Health screen</a>."
 msgid_plural "Take a look at the <strong>%1$d items</strong> on the <a href=\"%2$s\">Site Health screen</a>."
 msgstr[0] "Lihat <strong>%1$d masalah</strong> di <a href=\"%2$s\">layar Kesehatan Situs</a>."
 msgstr[1] "Lihat <strong>%1$d masalah</strong> di <a href=\"%2$s\">layar Kesehatan Situs</a>."
 
-#: wp-admin/includes/dashboard.php:1999
+#: wp-admin/includes/dashboard.php:2008
 msgid "Your site&#8217;s health is looking good, but there are still some things you can do to improve its performance and security."
 msgstr "Kesehatan situs Anda terlihat bagus, tetapi masih ada beberapa hal yang bisa Anda lakukan untuk meningkatkan kinerja dan keamanannya."
 
-#: wp-admin/includes/dashboard.php:1991
+#: wp-admin/includes/dashboard.php:2000
 msgid "Great job! Your site currently passes all site health checks."
 msgstr "Kerja bagus! Situs Anda saat ini lolos semua pemeriksaan kesehatan situs."
 
-#: wp-admin/includes/dashboard.php:1995
+#: wp-admin/includes/dashboard.php:2004
 msgid "Your site has critical issues that should be addressed as soon as possible to improve its performance and security."
 msgstr "Situs Anda memiliki masalah kritis yang harus diatasi sesegera untuk meningkatkan kinerja dan keamanannya."
 
 #. translators: %s: URL to Site Health screen.
-#: wp-admin/includes/dashboard.php:1983
+#: wp-admin/includes/dashboard.php:1992
 msgid "Site health checks will automatically run periodically to gather information about your site. You can also <a href=\"%s\">visit the Site Health screen</a> to gather information about your site now."
 msgstr "Pemeriksaan kesehatan situs akan secara otomatis berjalan secara berkala untuk mengumpulkan informasi tentang situs Anda. Anda juga dapat <a href=\"%s\">mengunjungi layar Kesehatan Situs</a> untuk mengumpulkan informasi tentang situs Anda saat ini."
 
-#: wp-admin/includes/dashboard.php:1970
+#: wp-admin/includes/dashboard.php:1979
 msgid "No information yet&hellip;"
 msgstr "Belum ada informasi&hellip;"
 
@@ -3199,7 +3223,7 @@ msgstr "<a href=\"https://wordpress.org/documentation/article/users-add-new-scre
 msgid "This page can show you every detail about the configuration of your WordPress website. For any improvements that could be made, see the <a href=\"%s\">Site Health Status</a> page."
 msgstr "Laman ini dapat menunjukkan kepada Anda setiap detail tentang konfigurasi situs web WordPress Anda. Untuk informasi peningkatan yang dapat dilakukan, lihat laman <a href=\"%s\">Status Kesehatan Situs</a>."
 
-#: wp-admin/includes/dashboard.php:1972 wp-admin/site-health.php:127
+#: wp-admin/includes/dashboard.php:1981 wp-admin/site-health.php:127
 msgid "Results are still loading&hellip;"
 msgstr "Hasil sedang dimuat&hellip;"
 
@@ -3357,7 +3381,7 @@ msgstr "https://wordpress.org/documentation/article/introduction-to-blogging/#ma
 msgid "https://wordpress.org/documentation/article/introduction-to-blogging/#comments"
 msgstr "https://wordpress.org/documentation/article/introduction-to-blogging/#comments"
 
-#: wp-admin/includes/dashboard.php:2105
+#: wp-admin/includes/dashboard.php:2114
 msgid "https://wordpress.org/documentation/article/block-themes/"
 msgstr "https://wordpress.org/documentation/article/block-themes/"
 
@@ -3747,17 +3771,17 @@ msgid "The authenticity of %s could not be verified as signature verification is
 msgstr "Keaslian %s tidak dapat diverifikasi karena verifikasi signature tidak tersedia pada sistem ini."
 
 #. translators: %s: Eraser friendly name.
-#: wp-admin/includes/ajax-actions.php:5187
+#: wp-admin/includes/ajax-actions.php:5203
 msgid "Eraser callback is not valid: %s."
 msgstr "Eraser callback tidak valid: %s."
 
 #. translators: %s: Eraser friendly name.
-#: wp-admin/includes/ajax-actions.php:5177
+#: wp-admin/includes/ajax-actions.php:5193
 msgid "Eraser does not include a callback: %s."
 msgstr "Eraser tidak mengandung callback: %s."
 
-#: wp-admin/includes/ajax-actions.php:4899
-#: wp-admin/includes/ajax-actions.php:5090
+#: wp-admin/includes/ajax-actions.php:4915
+#: wp-admin/includes/ajax-actions.php:5106
 msgid "Sorry, you are not allowed to perform this action."
 msgstr "Maaf, anda tidak diizinkan melakukan tindakan ini."
 
@@ -4986,11 +5010,11 @@ msgid "You cannot install because <a href=\"%1$s\">WordPress %2$s</a> requires P
 msgstr "Anda tidak dapat menginstal karena <a href=\"%1$s\">WordPress %2$s</a> mewajibkan PHP versi %3$s atau lebih tinggi. Saat ini Anda menggunakan versi %4$s."
 
 #: wp-admin/includes/class-wp-site-health.php:751
-#: wp-admin/includes/dashboard.php:1900
+#: wp-admin/includes/dashboard.php:1909
 msgid "Learn more about updating PHP"
 msgstr "Pelajari lebih lanjut tentang memperbarui PHP"
 
-#: wp-admin/includes/dashboard.php:1881
+#: wp-admin/includes/dashboard.php:1890
 msgid "What is PHP and how does it affect my site?"
 msgstr "Apa itu PHP dan bagaimana pengaruhnya terhadap situs saya?"
 
@@ -5086,7 +5110,7 @@ msgstr "Tidak dapat menginstal"
 
 #. translators: %s: WordPress version number.
 #. translators: %s: WordPress version.
-#: wp-admin/about.php:325 wp-admin/includes/update.php:323
+#: wp-admin/about.php:350 wp-admin/includes/update.php:323
 #: wp-admin/index.php:119 wp-admin/install.php:249 wp-admin/update-core.php:94
 #: wp-admin/upgrade.php:81
 msgid "https://wordpress.org/documentation/wordpress-version/version-%s/"
@@ -5693,7 +5717,7 @@ msgid "Report generated for"
 msgstr "Laporan dibuat untuk"
 
 #. translators: %s: Exporter array index.
-#: wp-admin/includes/ajax-actions.php:4983
+#: wp-admin/includes/ajax-actions.php:4999
 msgid "Exporter array at index %s does not include a friendly name."
 msgstr "Susunan pengekspor pada indeks %s tidak menyertakan nama bersahabat."
 
@@ -5705,72 +5729,72 @@ msgstr "Maaf, Anda tidak diizinkan untuk menghapus data pada situs ini."
 msgid "Sorry, you are not allowed to export personal data on this site."
 msgstr "Maaf, Anda tidak diizinkan untuk mengekspor data pribadi pada situs ini."
 
-#: wp-admin/includes/ajax-actions.php:5150
+#: wp-admin/includes/ajax-actions.php:5166
 msgid "Eraser index is out of range."
 msgstr "Indeks penghapus di luar jangkauan."
 
-#: wp-admin/includes/ajax-actions.php:5109
+#: wp-admin/includes/ajax-actions.php:5125
 msgid "Missing eraser index."
 msgstr "Indeks penghapus tidak ditemukan."
 
 #. translators: %s: Exporter friendly name.
-#: wp-admin/includes/ajax-actions.php:5034
+#: wp-admin/includes/ajax-actions.php:5050
 msgid "Expected done (boolean) in response array from exporter: %s."
 msgstr "Mengharapkan selesai (boolean) di susunan respon dari pengekspor: %s."
 
 #. translators: %s: Exporter friendly name.
-#: wp-admin/includes/ajax-actions.php:5027
+#: wp-admin/includes/ajax-actions.php:5043
 msgid "Expected data array in response array from exporter: %s."
 msgstr "Mengharapkan susunan data pada susunan respon dari pengekspor: %s."
 
 #. translators: %s: Exporter friendly name.
-#: wp-admin/includes/ajax-actions.php:5020
+#: wp-admin/includes/ajax-actions.php:5036
 msgid "Expected data in response array from exporter: %s."
 msgstr "Mengharapkan data pada susunan respon dari pengekspor: %s."
 
 #. translators: %s: Exporter friendly name.
-#: wp-admin/includes/ajax-actions.php:5013
+#: wp-admin/includes/ajax-actions.php:5029
 msgid "Expected response as an array from exporter: %s."
 msgstr "Mengharapkan respon sebagai susunan dari pengekspor: %s."
 
 #. translators: %s: Exporter friendly name.
-#: wp-admin/includes/ajax-actions.php:4999
+#: wp-admin/includes/ajax-actions.php:5015
 msgid "Exporter callback is not a valid callback: %s."
 msgstr "Callback pengekspor tidak sah: %s"
 
 #. translators: %s: Exporter friendly name.
-#: wp-admin/includes/ajax-actions.php:4992
+#: wp-admin/includes/ajax-actions.php:5008
 msgid "Exporter does not include a callback: %s."
 msgstr "Pengekspor tidak menyertakan callback: %s."
 
 #. translators: %s: Exporter array index.
-#: wp-admin/includes/ajax-actions.php:4976
+#: wp-admin/includes/ajax-actions.php:4992
 msgid "Expected an array describing the exporter at index %s."
 msgstr "Mengharapkan susunan mendeskripsikan pengekspor pada indeks %s."
 
-#: wp-admin/includes/ajax-actions.php:4962
+#: wp-admin/includes/ajax-actions.php:4978
 msgid "Exporter index is out of range."
 msgstr "Indeks pengekspor di luar jangkauan."
 
-#: wp-admin/includes/ajax-actions.php:4958
+#: wp-admin/includes/ajax-actions.php:4974
 msgid "Exporter index cannot be negative."
 msgstr "Indeks pengekspor tidak bisa bernilai negatif."
 
-#: wp-admin/includes/ajax-actions.php:4952
+#: wp-admin/includes/ajax-actions.php:4968
 msgid "An exporter has improperly used the registration filter."
 msgstr "Sebuah pengekspor digunakan dengan tidak benar pada filter pendaftaran."
 
-#: wp-admin/includes/ajax-actions.php:4923
-#: wp-admin/includes/ajax-actions.php:5115
+#: wp-admin/includes/ajax-actions.php:4939
+#: wp-admin/includes/ajax-actions.php:5131
 msgid "Missing page index."
 msgstr "Laman indeks tidak ditemukan."
 
-#: wp-admin/includes/ajax-actions.php:4917
+#: wp-admin/includes/ajax-actions.php:4933
 msgid "Missing exporter index."
 msgstr "Indeks pengekspor tidak ditemukan."
 
-#: wp-admin/includes/ajax-actions.php:4908
-#: wp-admin/includes/ajax-actions.php:5099
+#: wp-admin/includes/ajax-actions.php:4924
+#: wp-admin/includes/ajax-actions.php:5115
 msgid "Invalid request type."
 msgstr "Jenis permohonan tidak sah."
 
@@ -5899,7 +5923,7 @@ msgstr "Ekspor Data Pribadi"
 msgid "Personal Data Export for %s"
 msgstr "Ekspor Data Pribadi untuk %s"
 
-#: wp-admin/includes/ajax-actions.php:4913
+#: wp-admin/includes/ajax-actions.php:4929
 msgid "A valid email address must be given."
 msgstr "Harus memasukkan alamat email yang sah."
 
@@ -5970,61 +5994,61 @@ msgstr "Pengiriman permohonan konfirmasi berhasil dikirim ulang."
 msgid "Unable to initiate confirmation request."
 msgstr "Tidak dapat memulai permohonan konfirmasi."
 
-#: wp-admin/includes/ajax-actions.php:4895
-#: wp-admin/includes/ajax-actions.php:5085
+#: wp-admin/includes/ajax-actions.php:4911
+#: wp-admin/includes/ajax-actions.php:5101
 msgid "Invalid request ID."
 msgstr "ID permohonan tidak sah."
 
 #. translators: 1: Eraser friendly name, 2: Eraser array index.
-#: wp-admin/includes/ajax-actions.php:5259
+#: wp-admin/includes/ajax-actions.php:5275
 msgid "Expected done flag in response array from %1$s eraser (index %2$d)."
 msgstr "Penanda selesai diharapkan pada susunan respon dari penghapus %1$s (indeks %2$d)."
 
 #. translators: 1: Eraser friendly name, 2: Eraser array index.
-#: wp-admin/includes/ajax-actions.php:5248
+#: wp-admin/includes/ajax-actions.php:5264
 msgid "Expected messages key to reference an array in response array from %1$s eraser (index %2$d)."
 msgstr "Pesan kunci diharapkan untuk mereferensikan sebuah susunan respon dari penghapus %1$s (indeks %2$d)."
 
 #. translators: 1: Eraser friendly name, 2: Eraser array index.
-#: wp-admin/includes/ajax-actions.php:5237
+#: wp-admin/includes/ajax-actions.php:5253
 msgid "Expected messages key in response array from %1$s eraser (index %2$d)."
 msgstr "Pesan kunci diharapkan di dalam susunan respon dari penghapus %1$s (indeks %2$d)."
 
 #. translators: 1: Eraser friendly name, 2: Eraser array index.
-#: wp-admin/includes/ajax-actions.php:5226
+#: wp-admin/includes/ajax-actions.php:5242
 msgid "Expected items_retained key in response array from %1$s eraser (index %2$d)."
 msgstr "Kunci items_retained diharapkan untuk di dalam susunan respon dari penghapus %1$s (indeks %2$d)."
 
 #. translators: 1: Eraser friendly name, 2: Eraser array index.
-#: wp-admin/includes/ajax-actions.php:5215
+#: wp-admin/includes/ajax-actions.php:5231
 msgid "Expected items_removed key in response array from %1$s eraser (index %2$d)."
 msgstr "Kunci items_removed diharapkan untuk di dalam susunan respon dari penghapus %1$s (indeks %2$d)."
 
 #. translators: 1: Eraser friendly name, 2: Eraser array index.
-#: wp-admin/includes/ajax-actions.php:5204
+#: wp-admin/includes/ajax-actions.php:5220
 msgid "Did not receive array from %1$s eraser (index %2$d)."
 msgstr "Tidak menerima susunan dari penghapus %1$s (indeks %2$d)."
 
 #. translators: %d: Eraser array index.
-#: wp-admin/includes/ajax-actions.php:5168
+#: wp-admin/includes/ajax-actions.php:5184
 msgid "Eraser array at index %d does not include a friendly name."
 msgstr "Susunan penghapus pada indeks %d tidak menyertakan nama bersahabat."
 
 #. translators: %d: Eraser array index.
-#: wp-admin/includes/ajax-actions.php:5163
+#: wp-admin/includes/ajax-actions.php:5179
 msgid "Expected an array describing the eraser at index %d."
 msgstr "Mengharapkan sebuah susunan mendeskripsikan penghapus pada indeks %d."
 
-#: wp-admin/includes/ajax-actions.php:4966
-#: wp-admin/includes/ajax-actions.php:5154
+#: wp-admin/includes/ajax-actions.php:4982
+#: wp-admin/includes/ajax-actions.php:5170
 msgid "Page index cannot be less than one."
 msgstr "Indeks laman tidak bisa kurang dari satu."
 
-#: wp-admin/includes/ajax-actions.php:5146
+#: wp-admin/includes/ajax-actions.php:5162
 msgid "Eraser index cannot be less than one."
 msgstr "Indeks penghapus tidak bisa kurang dari satu."
 
-#: wp-admin/includes/ajax-actions.php:5105
+#: wp-admin/includes/ajax-actions.php:5121
 msgid "Invalid email address in request."
 msgstr "Alamat email tidak sah dalam permohonan."
 
@@ -6338,7 +6362,7 @@ msgstr "Perubahan kode PHP Anda tidak diterapkan karena ada kesalahan di baris %
 
 #. translators: If a Rosetta site exists (e.g. https://es.wordpress.org/news/),
 #. then use that. Otherwise, leave untranslated.
-#: wp-admin/includes/dashboard.php:1327
+#: wp-admin/includes/dashboard.php:1336
 msgctxt "Events and News dashboard widget"
 msgid "https://wordpress.org/news/"
 msgstr "https://id.wordpress.org/news/"
@@ -6432,7 +6456,7 @@ msgid "Image Rotation"
 msgstr "Rotasi Gambar"
 
 #. translators: %s: Meetup organization documentation URL.
-#: wp-admin/includes/dashboard.php:1495
+#: wp-admin/includes/dashboard.php:1504
 msgid "There are no events scheduled near you at the moment. Would you like to <a href=\"%s\">organize a WordPress event</a>?"
 msgstr "Tidak ada kegiatan yang dijadwalkan di sekitar Anda saat ini. Apakah Anda ingin <a href=\"%s\">menyelenggarakan kegiatan WordPress</a>?"
 
@@ -6446,38 +6470,38 @@ msgstr "Edit Pengguna %s"
 msgid "Edit widget: %s"
 msgstr "Edit widget: %s"
 
-#: wp-admin/includes/dashboard.php:1487 wp-admin/includes/dashboard.php:1496
+#: wp-admin/includes/dashboard.php:1496 wp-admin/includes/dashboard.php:1505
 msgid "https://make.wordpress.org/community/handbook/meetup-organizer/welcome/"
 msgstr "https://make.wordpress.org/community/handbook/meetup-organizer/welcome/"
 
 #. translators: 1: The city the user searched for, 2: Meetup organization
 #. documentation URL.
-#: wp-admin/includes/dashboard.php:1485
+#: wp-admin/includes/dashboard.php:1494
 msgid "There are no events scheduled near %1$s at the moment. Would you like to <a href=\"%2$s\">organize a WordPress event</a>?"
 msgstr "Tidak ada kegiatan yang dijadwalkan di sekitar %1$s saat ini. Apakah Anda ingin <a href=\"%2$s\">menyelenggarakan kegiatan WordPress</a>?"
 
 #. translators: %s: The name of a city.
-#: wp-admin/includes/dashboard.php:1423
+#: wp-admin/includes/dashboard.php:1432
 msgid "Attend an upcoming event near %s."
 msgstr "Hadiri sebuah acara terdekat yang akan datang %s."
 
-#: wp-admin/includes/dashboard.php:1393
+#: wp-admin/includes/dashboard.php:1402
 msgid "Cincinnati"
 msgstr "Jakarta"
 
-#: wp-admin/includes/dashboard.php:1381
+#: wp-admin/includes/dashboard.php:1390
 msgid "City:"
 msgstr "Kota:"
 
-#: wp-admin/includes/dashboard.php:1315
+#: wp-admin/includes/dashboard.php:1324
 msgid "WordCamps"
 msgstr "WordCamp"
 
-#: wp-admin/includes/dashboard.php:1303
+#: wp-admin/includes/dashboard.php:1312
 msgid "Meetups"
 msgstr "Meetup"
 
-#: wp-admin/includes/dashboard.php:1352 wp-admin/js/dashboard.js:585
+#: wp-admin/includes/dashboard.php:1361 wp-admin/js/dashboard.js:585
 msgid "An error occurred. Please try again."
 msgstr "Terjadi eror. Harap mencoba kembali."
 
@@ -6725,7 +6749,7 @@ msgstr "Maaf, Anda tak dizinkan menambahkan pengguna ke jaringan ini."
 msgid "Sorry, you are not allowed to edit this changeset."
 msgstr "Maaf, Anda tak diizinkan mengedit changeset ini."
 
-#: wp-admin/includes/ajax-actions.php:4313 wp-admin/update.php:207
+#: wp-admin/includes/ajax-actions.php:4329 wp-admin/update.php:207
 #: wp-admin/update.php:230
 msgid "Sorry, you are not allowed to update themes for this site."
 msgstr "Maaf, Anda tak dizinkan memperbarui tema-tema untuk situs ini."
@@ -6847,7 +6871,7 @@ msgstr "Portfolio"
 msgid "Photography"
 msgstr "Fotografi"
 
-#: wp-admin/includes/dashboard.php:1328 wp-admin/includes/theme.php:319
+#: wp-admin/includes/dashboard.php:1337 wp-admin/includes/theme.php:319
 msgid "News"
 msgstr "Berita"
 
@@ -6946,37 +6970,37 @@ msgstr "Maaf, Anda tak diizinkan mengedit tautan untuk situs ini."
 msgid "Sorry, you are not allowed to manage privacy options on this site."
 msgstr "Maaf, Anda tak diizinkan mengelola pilihan privasi di situs ini."
 
-#: wp-admin/includes/ajax-actions.php:4738
+#: wp-admin/includes/ajax-actions.php:4754
 msgid "Plugin could not be deleted."
 msgstr "Plugin tak bisa dihapus."
 
-#: wp-admin/includes/ajax-actions.php:4592 wp-admin/update.php:29
+#: wp-admin/includes/ajax-actions.php:4608 wp-admin/update.php:29
 #: wp-admin/update.php:57 wp-admin/update.php:80
 msgid "Sorry, you are not allowed to update plugins for this site."
 msgstr "Maaf, Anda tak diizinkan memperbarui plugin untuk situs ini."
 
-#: wp-admin/includes/ajax-actions.php:4468
-#: wp-admin/includes/ajax-actions.php:4577
-#: wp-admin/includes/ajax-actions.php:4685
+#: wp-admin/includes/ajax-actions.php:4484
+#: wp-admin/includes/ajax-actions.php:4593
+#: wp-admin/includes/ajax-actions.php:4701
 msgid "No plugin specified."
 msgstr "Tak ada plugin yang ditentukan."
 
-#: wp-admin/includes/ajax-actions.php:4444
+#: wp-admin/includes/ajax-actions.php:4460
 msgid "Theme could not be deleted."
 msgstr "Tema tak bisa dihapus."
 
-#: wp-admin/includes/ajax-actions.php:4406
+#: wp-admin/includes/ajax-actions.php:4422
 msgid "Sorry, you are not allowed to delete themes on this site."
 msgstr "Maaf, Anda tak diizinkan menghapus tema di situs ini."
 
-#: wp-admin/includes/ajax-actions.php:4186 wp-admin/theme-install.php:16
+#: wp-admin/includes/ajax-actions.php:4202 wp-admin/theme-install.php:16
 #: wp-admin/update.php:258 wp-admin/update.php:300 wp-admin/update.php:334
 msgid "Sorry, you are not allowed to install themes on this site."
 msgstr "Maaf, Anda tak diizinkan memasang tema ke situs ini."
 
-#: wp-admin/includes/ajax-actions.php:4173
-#: wp-admin/includes/ajax-actions.php:4299
-#: wp-admin/includes/ajax-actions.php:4394
+#: wp-admin/includes/ajax-actions.php:4189
+#: wp-admin/includes/ajax-actions.php:4315
+#: wp-admin/includes/ajax-actions.php:4410
 msgid "No theme specified."
 msgstr "Tak ada tema yang ditentukan."
 
@@ -7279,12 +7303,12 @@ msgstr "Templat Tanggal"
 msgid "Taxonomy Template"
 msgstr "Templat Taksonomi"
 
-#: wp-admin/includes/dashboard.php:1743
+#: wp-admin/includes/dashboard.php:1752
 msgid "Dismiss the browser warning panel"
 msgstr "Tutup panel peringatan browser"
 
 #. translators: Hidden accessibility text.
-#: wp-admin/includes/dashboard.php:1113
+#: wp-admin/includes/dashboard.php:1122
 msgid "View more comments"
 msgstr "Lihat komentar lainnya"
 
@@ -7375,16 +7399,16 @@ msgctxt "attachment filter"
 msgid "Trash"
 msgstr "Tong Sampah"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:820
+#: wp-admin/includes/class-wp-comments-list-table.php:833
 msgid "Quick edit this comment inline"
 msgstr "Edit cepat komentar ini"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:808
+#: wp-admin/includes/class-wp-comments-list-table.php:821
 #: wp-admin/includes/dashboard.php:751
 msgid "Edit this comment"
 msgstr "Edit komentar ini"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:771
+#: wp-admin/includes/class-wp-comments-list-table.php:784
 msgid "Restore this comment from the spam"
 msgstr "Kembalikan komentar ini dari spam"
 
@@ -7448,7 +7472,7 @@ msgid "(Currently set to: %s)"
 msgstr "(Saat ini diletakkan di: %s)"
 
 #. translators: %s: WordPress version number.
-#: wp-admin/about.php:373
+#: wp-admin/about.php:398
 msgid "<strong>Version %s</strong> addressed one security issue."
 msgstr "<strong>Versi %s</strong> mengatasi sebuah masalah keamanan."
 
@@ -7460,15 +7484,15 @@ msgstr "https://en.gravatar.com/"
 msgid "Profile Picture"
 msgstr "Foto Profil"
 
-#: wp-admin/about.php:370
+#: wp-admin/about.php:48 wp-admin/about.php:395
 msgid "Maintenance and Security Releases"
 msgstr "Rilis Pemeliharaan dan Keamanan"
 
-#: wp-admin/about.php:367
+#: wp-admin/about.php:392
 msgid "Security Releases"
 msgstr "Rilis Keamanan"
 
-#: wp-admin/about.php:364
+#: wp-admin/about.php:389
 msgid "Maintenance Releases"
 msgstr "Rilis Pemeliharaan"
 
@@ -7860,7 +7884,7 @@ msgid "Network Active"
 msgstr "Jaringan Aktif"
 
 #. translators: Hidden accessibility text.
-#: wp-admin/includes/class-wp-list-table.php:900
+#: wp-admin/includes/class-wp-list-table.php:914
 msgid "No pending comments"
 msgstr "Tidak ada komentar tertunda"
 
@@ -8011,7 +8035,7 @@ msgstr "Komentar (%s)"
 msgid "Comments (%1$s) on &#8220;%2$s&#8221;"
 msgstr "Komentar-komentar (%1$s) pada &#8220;%2$s&#8221;"
 
-#: wp-admin/includes/ajax-actions.php:5528
+#: wp-admin/includes/ajax-actions.php:5544
 msgid "Sorry, you are not allowed to modify themes."
 msgstr "Maaf, Anda tidak diizinkan untuk mengedit tema."
 
@@ -8023,6 +8047,10 @@ msgstr "Tema saat ini tidak mendukung gambar header dengan ukuran yang fleksibel
 #: wp-admin/includes/class-custom-image-header.php:1011
 msgid "The active theme does not support uploading a custom header image."
 msgstr "Tema saat ini tidak mendukung pengunggahan gambar header khusus."
+
+#: wp-admin/includes/user.php:542
+msgid "You are using the auto-generated password for your account. Would you like to change it?"
+msgstr "Anda menggunakan sandi yang diciptakan otomatis untuk akun Anda. Apakah Anda ingin mengubahnya?"
 
 #: wp-admin/users.php:516
 msgid "You have specified this user for removal:"
@@ -8065,7 +8093,7 @@ msgid "You will need this password to log&nbsp;in. Please store it in a secure l
 msgstr "Anda butuh sandi ini untuk log&nbsp;masuk. Simpanlah di tempat yang aman."
 
 #. translators: Hidden accessibility text.
-#: wp-admin/includes/class-wp-list-table.php:867
+#: wp-admin/includes/class-wp-list-table.php:881
 msgid "No approved comments"
 msgstr "Tidak ada komentar yang disetujui"
 
@@ -8083,7 +8111,7 @@ msgid_plural "%s approved comments"
 msgstr[0] "%s komentar disetujui"
 msgstr[1] "%s komentar disetujui"
 
-#: wp-admin/includes/ajax-actions.php:3997
+#: wp-admin/includes/ajax-actions.php:4013
 msgid "Image could not be processed."
 msgstr "Gambar tidak bisa diolah."
 
@@ -8099,9 +8127,9 @@ msgstr "Saat menyunting file %1$s, pastikan Anda memperoleh 8 kunci dan semuanya
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-application-passwords-list-table.php:258
-#: wp-admin/includes/class-wp-comments-list-table.php:881
+#: wp-admin/includes/class-wp-comments-list-table.php:894
 #: wp-admin/includes/class-wp-list-table.php:650
-#: wp-admin/includes/class-wp-list-table.php:1773
+#: wp-admin/includes/class-wp-list-table.php:1787
 #: wp-admin/includes/update.php:957
 msgid "Show more details"
 msgstr "Tampilkan rincian"
@@ -8502,11 +8530,11 @@ msgstr "Nama Pengguna hanya boleh berisi karakter alfanumerik (huruf dan angka),
 msgid "Enable full-height editor and distraction-free functionality."
 msgstr "Aktifkan penyunting ketinggian penuh dan fungsionalitas bebas distraksi."
 
-#: wp-admin/includes/dashboard.php:1564
+#: wp-admin/includes/dashboard.php:1573
 msgid "https://planet.wordpress.org/feed/"
 msgstr "https://planet.wordpress.org/feed/"
 
-#: wp-admin/includes/dashboard.php:1555 wp-admin/index.php:98
+#: wp-admin/includes/dashboard.php:1564 wp-admin/index.php:98
 msgid "https://planet.wordpress.org/"
 msgstr "https://planet.wordpress.org/"
 
@@ -8524,15 +8552,15 @@ msgid "Filter by comment type"
 msgstr "Saring menurut tipe komentar"
 
 #. translators: %s: User's display name.
-#: wp-admin/includes/ajax-actions.php:3972
+#: wp-admin/includes/ajax-actions.php:3988
 msgid "%s has been logged out."
 msgstr "%s telah log keluar."
 
-#: wp-admin/includes/ajax-actions.php:3968
+#: wp-admin/includes/ajax-actions.php:3984
 msgid "You are now logged out everywhere else."
 msgstr "Anda telah log keluar dari semua lokasi lain."
 
-#: wp-admin/includes/ajax-actions.php:3959
+#: wp-admin/includes/ajax-actions.php:3975
 msgid "Could not log out user sessions. Please try again."
 msgstr "Tak bisa log keluar sesi-sesi pengguna. Silakan coba lagi."
 
@@ -8905,12 +8933,12 @@ msgid "If you would like to see more themes to choose from, click on the &#8220;
 msgstr "Jika Anda ingin melihat lebih banyak pilihan tema, klik pada tombol &#8220;Tambahkan Baru&#8221; dan Anda akan bisa menelusuri atau mencari tema-tema dari <a href=\"%s\">Direktori Tema WordPress</a>. Tema-tema di Direktori Tema WordPress dirancang dan dibangun oleh pihak ketiga, dan kompatibel dengan lisensi yang digunakan oleh WordPress. Gratis pula!"
 
 #. translators: 1: Number of megabytes, 2: Percentage.
-#: wp-admin/includes/dashboard.php:1662
+#: wp-admin/includes/dashboard.php:1671
 msgid "%1$s MB (%2$s%%) Space Used"
 msgstr "%1$s MB (%2$s%%) Ruang Terpakai"
 
 #. translators: %s: Number of megabytes.
-#: wp-admin/includes/dashboard.php:1647
+#: wp-admin/includes/dashboard.php:1656
 msgid "%s MB Space Allowed"
 msgstr "%s MB ruang yang diijinkan"
 
@@ -9092,7 +9120,7 @@ msgid "<strong>Screen Options</strong> &mdash; Use the Screen Options tab to cho
 msgstr "<strong>Opsi Layar</strong> &mdash; Pergunakan tab Opsi Layar untuk memilih boks Dasbor mana yang ingin ditampilkan."
 
 #. translators: Hidden accessibility text.
-#: wp-admin/includes/dashboard.php:1655 wp-admin/includes/dashboard.php:1671
+#: wp-admin/includes/dashboard.php:1664 wp-admin/includes/dashboard.php:1680
 msgid "Manage Uploads"
 msgstr "Kelola Unggahan"
 
@@ -9395,6 +9423,10 @@ msgstr "WordPress %s"
 msgid "Updating to WordPress %s"
 msgstr "Memperbarui ke WordPress %s"
 
+#: wp-admin/includes/class-core-upgrader.php:38
+msgid "Due to an error during updating, WordPress has been restored to your previous version."
+msgstr "Karena terjadi eror saat pembaruan, WordPress telah memulihkan situs Anda ke versi sebelumnya."
+
 #. translators: 1: Folder to locate, 2: Folder to start searching from.
 #: wp-admin/includes/class-wp-filesystem-base.php:268
 msgid "Looking for %1$s in %2$s"
@@ -9610,7 +9642,7 @@ msgid "To navigate between revisions, <strong>drag the slider handle left or rig
 msgstr "Untuk menelusuri revisi-revisi, <strong>tarik tuas slider ke kanan atau ke kiri</strong> atau <strong>klik tombol Sebelumnya atau Berikutnya</strong>."
 
 #: wp-admin/customize.php:151 wp-admin/includes/class-wp-debug-data.php:438
-#: wp-admin/includes/dashboard.php:1161 wp-admin/includes/dashboard.php:1359
+#: wp-admin/includes/dashboard.php:1170 wp-admin/includes/dashboard.php:1368
 msgid "Loading&hellip;"
 msgstr "Memuat&hellip;"
 
@@ -10074,7 +10106,7 @@ msgstr "Nama pengguna WordPress.org Anda:"
 msgid "If you have marked plugins as favorites on WordPress.org, you can browse them here."
 msgstr "Jika Anda telah menandakan plugin sebagai kesukaan pada WordPress.org, Anda dapat melihatnya di sini."
 
-#: wp-admin/includes/dashboard.php:2051
+#: wp-admin/includes/dashboard.php:2060
 msgid "Welcome to WordPress!"
 msgstr "Selamat Datang di WordPress!"
 
@@ -10137,7 +10169,7 @@ msgid "Contextual Help Tab"
 msgstr "Tab Bantuan Kontekstual"
 
 #. translators: Hidden accessibility text.
-#: wp-admin/includes/class-wp-comments-list-table.php:902
+#: wp-admin/includes/class-wp-comments-list-table.php:915
 msgid "Select comment"
 msgstr "Pilih komentar"
 
@@ -10324,7 +10356,7 @@ msgid "https://wordpress.org/about/"
 msgstr "https://wordpress.org/about/"
 
 #. translators: Hidden accessibility text.
-#: wp-admin/includes/class-wp-list-table.php:1376
+#: wp-admin/includes/class-wp-list-table.php:1390
 #: wp-admin/includes/nav-menu.php:811 wp-admin/includes/nav-menu.php:1106
 #: wp-admin/update-core.php:490 wp-admin/update-core.php:614
 #: wp-admin/update-core.php:666 wp-admin/update-core.php:790
@@ -10372,7 +10404,7 @@ msgid "Plugin"
 msgstr "Plugin"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:373
-#: wp-admin/includes/class-wp-comments-list-table.php:782
+#: wp-admin/includes/class-wp-comments-list-table.php:795
 #: wp-admin/includes/class-wp-media-list-table.php:184
 #: wp-admin/includes/class-wp-media-list-table.php:778
 #: wp-admin/includes/class-wp-posts-list-table.php:438
@@ -10785,13 +10817,13 @@ msgstr "Tampilkan Baris Perkakas ketika mengunjungi situs"
 
 #. translators: %s: HelpHub URL.
 #. translators: %s: Documentation URL.
-#: wp-admin/about.php:65 wp-admin/about.php:396
+#: wp-admin/about.php:65 wp-admin/about.php:90 wp-admin/about.php:421
 msgid "For more information, see <a href=\"%s\">the release notes</a>."
 msgstr "Untuk informasi lebih lanjut, lihatlah <a href=\"%s\">catatan rilis</a>."
 
 #. translators: 1: WordPress version number, 2: Plural number of bugs. More
 #. than one security issue.
-#: wp-admin/about.php:390
+#: wp-admin/about.php:53 wp-admin/about.php:415
 msgid "<strong>Version %1$s</strong> addressed some security issues and fixed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed some security issues and fixed %2$s bugs."
 msgstr[0] "<strong>Versi %1$s</strong> memperbaiki beberapa masalah keamanan dan %2$s bug."
@@ -10799,33 +10831,33 @@ msgstr[1] "<strong>Versi %1$s</strong> memperbaiki beberapa masalah keamanan dan
 
 #. translators: 1: WordPress version number, 2: Plural number of bugs. Singular
 #. security issue.
-#: wp-admin/about.php:384
+#: wp-admin/about.php:409
 msgid "<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bugs."
 msgstr[0] "<strong>Versi %1$s</strong> telah memperbaiki masalah keamanan dan memperbaiki %2$s bug."
 msgstr[1] "<strong>Versi %1$s</strong> telah memperbaiki masalah keamanan dan memperbaiki %2$s bug."
 
 #. translators: 1: WordPress version number, 2: Plural number of bugs.
-#: wp-admin/about.php:53 wp-admin/about.php:378
+#: wp-admin/about.php:78 wp-admin/about.php:403
 msgid "<strong>Version %1$s</strong> addressed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed %2$s bugs."
 msgstr[0] "<strong>Versi %1$s</strong> mengatasi %2$s bug."
 msgstr[1] "<strong>Versi %1$s</strong> mengatasi %2$s bug."
 
 #. translators: %s: WordPress version number.
-#: wp-admin/about.php:375
+#: wp-admin/about.php:400
 msgid "<strong>Version %s</strong> addressed some security issues."
 msgstr "<strong>Versi %s</strong> mengatasi sejumlah isu keamanan."
 
-#: wp-admin/about.php:369
+#: wp-admin/about.php:394
 msgid "Maintenance and Security Release"
 msgstr "Rilis Perawatan dan Perbaikan Keamanan"
 
-#: wp-admin/about.php:366
+#: wp-admin/about.php:391
 msgid "Security Release"
 msgstr "Rilis Perbaikan Keamanan"
 
-#: wp-admin/about.php:48 wp-admin/about.php:363
+#: wp-admin/about.php:388
 msgid "Maintenance Release"
 msgstr "Rilis Perawatan"
 
@@ -11037,6 +11069,10 @@ msgstr "Laman mirip dengan Pos dalam hal keberadaan sebuah judul, teks isi, dan 
 msgid "Many people take advantage of keyboard shortcuts to moderate their comments more quickly. Use the link to the side to learn more."
 msgstr "Banyak orang menggunakan tombol pintas pada keyboard untuk memoderasi komentar mereka dengan lebih cepat. Gunakan taut di samping untuk pelajari lebih lanjut."
 
+#: wp-admin/edit-comments.php:219
+msgid "In the <strong>Author</strong> column, in addition to the author&#8217;s name, email address, and site URL, the commenter&#8217;s IP address is shown. Clicking on this link will show you all the comments made from this IP address."
+msgstr "Pada kolom <strong>Penulis</strong>, di samping nama penulis, alamat email, dan URL situs, alamat IP pemberi komentar juga ditampilkan di sana. Dengan mengeklik tautan ini akan memunculkan semua komentar yang dikirim dari alamat IP ini."
+
 #: wp-admin/edit-comments.php:210
 msgid "You can manage comments made on your site similar to the way you manage posts and other content. This screen is customizable in the same ways as other management screens, and you can act on comments using the on-hover action links or the bulk actions."
 msgstr "Anda bisa mengelola komentar pada situs Anda dengan cara yang mirip dengan cara mengelola pos dan konten lainnya. Layar ini bisa dimodifikasi seperti layar pengelolaan lainnya, dan Anda bisa menerapkan tindakan pada komentar menggunakan tautan tindakan yang muncul pada saat kursor diarahkan ke komentar atau melalui Tindakan Massal."
@@ -11099,15 +11135,15 @@ msgid "Because this is a multisite installation, you may add accounts that alrea
 msgstr "Karena ini adalah instalasi multi-situs, Anda dapat menambahkan akun-akun yang telah ada pada Jaringan dengan menyebutkan sebuah nama pengguna atau email, dan mendefinisikan sebuah peran. Untuk pilihan lebih lanjut, seperti menentukan kata sandi, Anda haruslah seorang Administrator Jaringan dan gunakan taut layangan di bawah nama pengguna yang telah ada untuk Menyunting riwayat pengguna tersebut di bawah Admin Jaringan > Semua Pengguna."
 
 #. translators: %s: Version number.
-#: wp-admin/about.php:83
+#: wp-admin/about.php:108
 msgid "Welcome to WordPress %s"
 msgstr "Selamat Datang di WordPress %s"
 
-#: wp-admin/about.php:350
+#: wp-admin/about.php:375
 msgid "Go to Dashboard &rarr; Home"
 msgstr "Pergi ke Dasbor &rarr; Beranda"
 
-#: wp-admin/about.php:343
+#: wp-admin/about.php:368
 msgid "Go to Dashboard &rarr; Updates"
 msgstr "Pergi ke Dasbor &rarr; Pembaruan"
 
@@ -11138,7 +11174,7 @@ msgstr ""
 msgid "Core Developer"
 msgstr "Pengembang Inti"
 
-#: wp-admin/includes/class-plugin-upgrader.php:456
+#: wp-admin/includes/class-plugin-upgrader.php:492
 msgid "No valid plugins were found."
 msgstr "Tidak ada plugin yang sah."
 
@@ -11204,7 +11240,7 @@ msgid "Tumblr"
 msgstr "Tumblr"
 
 #. translators: 1: Browser update URL, 2: Browser name, 3: Browse Happy URL.
-#: wp-admin/includes/dashboard.php:1735
+#: wp-admin/includes/dashboard.php:1744
 msgid "<a href=\"%1$s\" class=\"update-browser-link\">Update %2$s</a> or learn how to <a href=\"%3$s\" class=\"browse-happy-link\">browse happy</a>"
 msgstr "<a href=\"%1$s\" class=\"update-browser-link\">Perbarui %2$s</a> atau pelajari bagaimana cara untuk <a href=\"%3$s\" class=\"browse-happy-link\">meramban dengan nyaman</a>"
 
@@ -11353,8 +11389,8 @@ msgstr "Super Admin"
 #. translators: %s: Theme version number.
 #. translators: %s: WordPress version.
 #. translators: %s: Theme version.
-#: wp-admin/includes/ajax-actions.php:4602
-#: wp-admin/includes/ajax-actions.php:4645
+#: wp-admin/includes/ajax-actions.php:4618
+#: wp-admin/includes/ajax-actions.php:4661
 #: wp-admin/includes/class-wp-debug-data.php:971
 #: wp-admin/includes/class-wp-debug-data.php:1018
 #: wp-admin/includes/class-wp-debug-data.php:1340
@@ -11509,12 +11545,12 @@ msgid "Featured Image Header"
 msgstr "Gambar Tajuk Andalan"
 
 #. translators: %s: Browser name and link.
-#: wp-admin/includes/dashboard.php:1706
+#: wp-admin/includes/dashboard.php:1715
 msgid "It looks like you're using an old version of %s. For the best WordPress experience, please update your browser."
 msgstr "Sepertinya Anda menggunakan versi lama dari %s. Untuk pengalaman WordPress terbaik, silakan perbarui browser Anda."
 
 #. translators: %s: Browser name and link.
-#: wp-admin/includes/dashboard.php:1700
+#: wp-admin/includes/dashboard.php:1709
 msgid "It looks like you're using an insecure version of %s. Using an outdated browser makes your computer unsafe. For the best WordPress experience, please update your browser."
 msgstr "Sepertinya Anda menggunakan versi rentan dari %s. Menggunakan browser kadaluwarsa membuat komputer Anda rentan ancaman. Untuk pengalaman WordPress terbaik, silakan perbarui browser Anda."
 
@@ -11661,7 +11697,7 @@ msgstr "Anda telah memilih pengguna berikut untuk dihapuskan:"
 msgid "%s Page Template"
 msgstr "Templat Laman %s"
 
-#: wp-admin/includes/ajax-actions.php:4707 wp-admin/plugins.php:624
+#: wp-admin/includes/ajax-actions.php:4723 wp-admin/plugins.php:624
 msgid "You cannot delete a plugin while it is active on the main site."
 msgstr "Anda tidak dapat menghapus plugin ketika dia aktif pada situs utama."
 
@@ -11803,7 +11839,7 @@ msgstr "Perbarui Plugin"
 msgid "Theme updated successfully."
 msgstr "Tema telah berhasil diperbarui."
 
-#: wp-admin/includes/ajax-actions.php:4373
+#: wp-admin/includes/ajax-actions.php:4389
 #: wp-admin/includes/class-theme-upgrader.php:63
 #: wp-admin/includes/class-theme-upgrader.php:100
 msgid "Theme update failed."
@@ -11814,7 +11850,7 @@ msgstr "Pembaruan tema gagal."
 msgid "Plugin updated successfully."
 msgstr "Plugin telah berhasil diperbarui."
 
-#: wp-admin/includes/ajax-actions.php:4664
+#: wp-admin/includes/ajax-actions.php:4680
 #: wp-admin/includes/class-plugin-upgrader.php:64
 #: wp-admin/includes/class-plugin-upgrader.php:91
 msgid "Plugin update failed."
@@ -11946,8 +11982,8 @@ msgid "To perform the requested action, WordPress needs to access your web serve
 msgstr "Untuk melaksanakan tindakan yang diminta, WordPress perlu mengakses server web Anda."
 
 #. translators: Hidden accessibility text.
-#: wp-admin/includes/class-wp-list-table.php:1058
-#: wp-admin/includes/class-wp-list-table.php:1067
+#: wp-admin/includes/class-wp-list-table.php:1072
+#: wp-admin/includes/class-wp-list-table.php:1081
 msgid "Current Page"
 msgstr "Laman Sekarang"
 
@@ -11985,11 +12021,11 @@ msgid_plural "%s users"
 msgstr[0] "%s pengguna"
 msgstr[1] "%s pengguna"
 
-#: wp-admin/includes/dashboard.php:1531
+#: wp-admin/includes/dashboard.php:1540
 msgid "https://wordpress.org/news/feed/"
 msgstr "https://wordpress.org/news/feed/"
 
-#: wp-admin/includes/dashboard.php:1522
+#: wp-admin/includes/dashboard.php:1531
 msgid "https://wordpress.org/news/"
 msgstr "https://id.wordpress.org/news/"
 
@@ -12030,7 +12066,7 @@ msgstr "Ke laman plugin"
 msgid "Click Save Menu to make pending menu items public."
 msgstr "Klik Simpan Menu untuk membuat item menu tertangguhkan menjadi publik."
 
-#: wp-admin/includes/dashboard.php:1640
+#: wp-admin/includes/dashboard.php:1649
 msgid "Storage Space"
 msgstr "Ruang Penyimpanan"
 
@@ -12395,12 +12431,12 @@ msgstr "Ini akan membuang gambar tajuk. Anda tidak akan dapat mengembalikan peny
 msgid "Default Images"
 msgstr "Gambar Bawaan"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:791
+#: wp-admin/includes/class-wp-comments-list-table.php:804
 #: wp-admin/includes/dashboard.php:777
 msgid "Delete this comment permanently"
 msgstr "Hapus komentar ini selamanya"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:781
+#: wp-admin/includes/class-wp-comments-list-table.php:794
 msgid "Restore this comment from the Trash"
 msgstr "Kembalikan komentar ini dari Bak Sampah"
 
@@ -12512,7 +12548,7 @@ msgstr "Versi yang terinstal adalah %1$s. Perbarui ke %2$s."
 msgid "Enabled"
 msgstr "Diaktifkan"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:772
+#: wp-admin/includes/class-wp-comments-list-table.php:785
 msgctxt "comment"
 msgid "Not Spam"
 msgstr "Bukan Spam"
@@ -12521,7 +12557,7 @@ msgstr "Bukan Spam"
 msgid "This will restore the original background image. You will not be able to restore any customizations."
 msgstr "Ini akan mengembalikan gambar latar yang asli. Anda tidak akan bisa untuk mengembalikan segala penyesuaian-penyesuaian."
 
-#: wp-admin/includes/dashboard.php:1540
+#: wp-admin/includes/dashboard.php:1549
 msgid "WordPress Blog"
 msgstr "Blog Wordpress"
 
@@ -12862,7 +12898,7 @@ msgstr "Pembaruan WordPress "
 msgid "Edit menu item"
 msgstr "Edit item menu"
 
-#: wp-admin/about.php:350 wp-admin/includes/network.php:148
+#: wp-admin/about.php:375 wp-admin/includes/network.php:148
 msgid "Go to Dashboard"
 msgstr "Kunjungi Dasbor"
 
@@ -13433,7 +13469,7 @@ msgstr "Berkas Plugin"
 msgid "Select plugin to edit:"
 msgstr "Pilih plugin yang akan diedit:"
 
-#: wp-admin/includes/ajax-actions.php:4875 wp-admin/plugin-editor.php:187
+#: wp-admin/includes/ajax-actions.php:4891 wp-admin/plugin-editor.php:187
 #: wp-admin/theme-editor.php:194
 msgid "File edited successfully."
 msgstr "Berkas berhasil diedit."
@@ -14334,7 +14370,7 @@ msgctxt "column name"
 msgid "Title"
 msgstr "Judul"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:821
+#: wp-admin/includes/class-wp-comments-list-table.php:834
 #: wp-admin/includes/class-wp-posts-list-table.php:1476
 #: wp-admin/includes/class-wp-terms-list-table.php:492
 msgid "Quick&nbsp;Edit"
@@ -15168,7 +15204,7 @@ msgstr "Stylesheet RTL"
 msgid "Main Index Template"
 msgstr "Templat Indeks Utama"
 
-#: wp-admin/includes/dashboard.php:1161 wp-admin/includes/dashboard.php:1348
+#: wp-admin/includes/dashboard.php:1170 wp-admin/includes/dashboard.php:1357
 msgid "This widget requires JavaScript."
 msgstr "Widget ini membutuhkan JavaScript."
 
@@ -15189,7 +15225,7 @@ msgstr "[Ditangguhkan]"
 msgid "From %1$s on %2$s %3$s"
 msgstr "Dari %1$s untuk %2$s %3$s"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:800
+#: wp-admin/includes/class-wp-comments-list-table.php:813
 #: wp-admin/includes/class-wp-media-list-table.php:786
 #: wp-admin/includes/class-wp-posts-list-table.php:1496
 #: wp-admin/includes/dashboard.php:786
@@ -15197,36 +15233,36 @@ msgctxt "verb"
 msgid "Trash"
 msgstr "Tong Sampah"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:799
+#: wp-admin/includes/class-wp-comments-list-table.php:812
 #: wp-admin/includes/dashboard.php:785
 msgid "Move this comment to the Trash"
 msgstr "Pindahkan komentar ini ke Tong Sampah"
 
 #. translators: "Mark as spam" link.
-#: wp-admin/includes/class-wp-comments-list-table.php:764
+#: wp-admin/includes/class-wp-comments-list-table.php:777
 #: wp-admin/includes/dashboard.php:769
 msgctxt "verb"
 msgid "Spam"
 msgstr "Spam"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:762
+#: wp-admin/includes/class-wp-comments-list-table.php:775
 #: wp-admin/includes/dashboard.php:767
 msgid "Mark this comment as spam"
 msgstr "Tandai komentar ini sebagai spam"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:830
+#: wp-admin/includes/class-wp-comments-list-table.php:843
 #: wp-admin/includes/dashboard.php:759
 msgid "Reply to this comment"
 msgstr "Balas ke komentar ini"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:727
-#: wp-admin/includes/class-wp-comments-list-table.php:752
+#: wp-admin/includes/class-wp-comments-list-table.php:740
+#: wp-admin/includes/class-wp-comments-list-table.php:765
 #: wp-admin/includes/dashboard.php:744
 msgid "Unapprove this comment"
 msgstr "Tolak komentar ini"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:735
-#: wp-admin/includes/class-wp-comments-list-table.php:744
+#: wp-admin/includes/class-wp-comments-list-table.php:748
+#: wp-admin/includes/class-wp-comments-list-table.php:757
 #: wp-admin/includes/dashboard.php:736
 msgid "Approve this comment"
 msgstr "Setujui komentar ini"
@@ -15239,7 +15275,7 @@ msgstr "Konfigurasikan"
 msgid "View all"
 msgstr "Lihat Semua"
 
-#: wp-admin/includes/dashboard.php:1573
+#: wp-admin/includes/dashboard.php:1582
 msgid "Other WordPress News"
 msgstr "Berita WordPress lainnya"
 
@@ -15703,15 +15739,15 @@ msgid "Pings"
 msgstr "Ping"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:365
-#: wp-admin/includes/class-wp-comments-list-table.php:736
-#: wp-admin/includes/class-wp-comments-list-table.php:745
+#: wp-admin/includes/class-wp-comments-list-table.php:749
+#: wp-admin/includes/class-wp-comments-list-table.php:758
 #: wp-admin/includes/dashboard.php:737
 msgid "Approve"
 msgstr "Setujui"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:361
-#: wp-admin/includes/class-wp-comments-list-table.php:728
-#: wp-admin/includes/class-wp-comments-list-table.php:753
+#: wp-admin/includes/class-wp-comments-list-table.php:741
+#: wp-admin/includes/class-wp-comments-list-table.php:766
 #: wp-admin/includes/dashboard.php:745
 msgid "Unapprove"
 msgstr "Tolak"
@@ -15785,7 +15821,7 @@ msgid "View &#8220;%s&#8221;"
 msgstr "Lihat &#8220;%s&#8221;"
 
 #: wp-admin/edit-form-comment.php:242
-#: wp-admin/includes/class-wp-comments-list-table.php:792
+#: wp-admin/includes/class-wp-comments-list-table.php:805
 #: wp-admin/includes/class-wp-media-list-table.php:799
 #: wp-admin/includes/class-wp-posts-list-table.php:1506
 #: wp-admin/includes/dashboard.php:778 wp-admin/includes/media.php:1733
